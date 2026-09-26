@@ -16,4 +16,4 @@ Let's connect:
 Email: ivyharriet2003@gmail.com
 LinkedIn: Ivy Harriet Isamisi
 
-![Ivy's Stats](https://github-readme-stats.vercel.app/api?username=ivyharriet2003-sudo&show_icons=true)
+
