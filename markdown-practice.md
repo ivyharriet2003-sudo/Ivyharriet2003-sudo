@@ -1,20 +1,34 @@
-# Hi, I'm Ivy Harriet
+# Markdown Practice
 
-## About Me
-I am learning GitHub.
+## Headings
+# My Heading 1
+## My Heading 2
+### My Heading 3
 
-## My Skills
-- HTML
+## Text
+**bold**
+*italic*
+
+## Links
+[GitHub](https://github.com/ivyharriet2003-sudo)
+
+## Lists
 - Git
-- GitHub
+- HTML
+- GitHub Pages
 
-## My Learning Table
+1. Learn
+2. Practice
+3. Build
 
-| What I Learned | Status |
+## Table
+| Name | Thing |
 | --- | --- |
-| GitHub Profile | Done |
-| GitHub Pages | Done |
-| Git Commands | Learning |
+| Ivy | Git |
+| Harriet | HTML |
 
-## My Link
-[My GitHub](https://github.com/ivyharriet2003-sudo)
+## Task List
+- [x] Done profile
+- [ ] Learn more
+
+## Code
