@@ -1,16 +1,9 @@
-# Ivy Harriet Isamisi
+Hi, I'm Ivy Harriet
 
-I'm student at IYF Weekend Academy S12 Team Alpha.
+I'm learning Git and GitHub
+I'm interested in tech
 
-Setup
-user.name Ivy Harriet Isamisi
-user.email ivyharriet2003-sudo
-
-About Me
-- Name: Ivy Harriet Isamisi
-- From Nairobi
-- Using Android
-
-Links
-- Portfolio: https://ivyharriet2003-sudo.github.io
-- Team: https://github.com/Quantums-meruit/IYFweekendAcademyS12-Team-Alpha
+Learning:
+- GitHub profile
+- GitHub.io portfolio
+- Git commands
